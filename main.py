@@ -24,8 +24,8 @@ from bokeh.models import DatetimeTickFormatter, DaysTicker, DatetimeTicker
 STARTING_BAL = 1000
 
 ## Transaction fees in %'s
-BUY_FEE = 0.16/100
-SELL_FEE = 0.26/100
+SELL_FEE = 0.16/100
+BUY_FEE = 0.26/100
 
 ##################
 #### GET DATA ####
